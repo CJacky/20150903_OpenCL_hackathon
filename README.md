@@ -1,5 +1,5 @@
-# 20150903_OpenCL_hackathon
-## HACKATHON ON HETEROGENEOUS COMPUTING
+# HACKATHON ON HETEROGENEOUS COMPUTING
+### 20150903_OpenCL_hackathon
 
 There is group 8 鴿子封包's result.
 The project contain 3 parts:
